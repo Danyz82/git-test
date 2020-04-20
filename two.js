@@ -4,3 +4,4 @@ const two_3 = "text two 3 commit-squash-3 3";
 const two_4 = "text two 4 commit-squash-4 4";
 const three = 'tak';
 const four = 'four';
+const five = 'five';
